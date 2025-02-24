@@ -1,0 +1,7 @@
+{
+    "source_group": "source_group_id_or_username",
+    "destination_group": "destination_group_id_or_username",
+    "delay": 5,
+    "max_add_per_run": 10,
+    "filter_premium": false
+}
